@@ -1,5 +1,5 @@
 # Bridging Imagination and Reality for Model-Based Deep Reinforcement Learning (BIRD)
-This repository implements the main algorithm of BIRD described in **"Bridging Imagination and Reality for Model-Based Deep Reinforcement Learning"** ([arxiv](https://arxiv.org/abs/2010.12142)).
+This repository implements the main algorithm of BIRD described in **"Bridging Imagination and Reality for Model-Based Deep Reinforcement Learning (NeurIPS 2020)"** ([arxiv](https://arxiv.org/abs/2010.12142)).
 
 ## Requirements
 - run it directly in your python 3 environment with pip:
